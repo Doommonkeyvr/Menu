@@ -1,5 +1,5 @@
 {
-    "enabled": false,
+    "enabled": true,
     "minimumVersion": "1.0.0",
-    "message": "Fuck You"
+    "message": "No Fuck You"
 }
